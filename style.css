@@ -1,0 +1,18 @@
+body{
+    width: 400px;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    background: #8ADFDC;
+}
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    padding: 10px;
+    font-size: 20px;
+    color:#125D98;
+    border-radius: 10px;
+    border: 3px solid #187498
+
+
+    }
