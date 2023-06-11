@@ -3,16 +3,16 @@ body{
     height: 40%;
     display: flex;
     justify-content: center;
-    background: #8ADFDC;
+    background: #453246;
 }
-p{
+form{
+    display: flex;
+    flex-wrap: wrap;
     display: inner-flex;
-    margin: auto 10px;
+    margin: 10px 10px;
     padding: 10px;
     font-size: 20px;
     color:#125D98;
     border-radius: 10px;
     border: 3px solid #187498
-
-
     }
